@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá, sou o Lucas Andrade 👋
 
-<!--
-**LucasMoreir/LucasMoreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Unit Faculdade Tiradentes, em Recife. 
 
-Here are some ideas to get you started:
+Estou apaixonado pelo mundo da programação e busco uma oportunidade de estágio na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🎮 Amante de jogos e tecnologia.
+- ⚽ Apaixonado por esportes.
+
+## O que estou buscando
+
+Estou ansioso para contribuir com projetos empolgantes e aprender com profissionais experientes na área de programação. Se você tem uma oportunidade de estágio ou projeto interessante, não hesite em entrar em contato!
+
+## Contato
+
+- 📧 Email: lukasa24@Gmail.com
+- 📞 telefone: 81 997624446
+- 🌐 linkedin: https://www.linkedin.com/in/lucas-andrade-moreira-da-silva-51a121292/
+
+Vamos nos conectar e criar coisas incríveis juntos!
